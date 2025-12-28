@@ -13,7 +13,9 @@ This repository contains my completed work for the Deloitte Australia Data Analy
 - `images/` → images/ → 📊 [Tableau Dashboard Screenshot](images/tableau-downtime-dashboard.png) 
 - `docs/` → ## Certificate
 ## Certificate
-[Deloitte Australia Data Analytics Job Simulation – Certificate of Completion](docs/Charan_Deloitte_certificate.pdf)
+[Certificate of Completion](Charan_Deloitte_certificate.pdf)
+
+
 
 
 - `tableau/` → ![Tableau Dashboard](images/tableau-downtime-dashboard.png)
