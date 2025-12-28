@@ -10,8 +10,10 @@ This repository contains my completed work for the Deloitte Australia Data Analy
 
 ## Repository structure
 - `data/` → Excel files used for analysis
-- `images/` → Tableau dashboard screenshots
-- `docs/` → Certificate (optional)
+- `images/` → images/ → 📊 [Tableau Dashboard Screenshot](images/tableau-downtime-dashboard.png) 
+- `docs/` → ## Certificate
+[Deloitte Australia Data Analytics Job Simulation – Certificate of Completion](docs/Deloitte_Data_Analytics_Forage_Certificate.pdf)
+
 - `tableau/` → ![Tableau Dashboard](images/tableau-downtime-dashboard.png)
 
 
