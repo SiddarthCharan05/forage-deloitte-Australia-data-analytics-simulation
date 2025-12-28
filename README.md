@@ -12,7 +12,8 @@ This repository contains my completed work for the Deloitte Australia Data Analy
 - `data/` → Excel files used for analysis
 - `images/` → Tableau dashboard screenshots
 - `docs/` → Certificate (optional)
-- `tableau/` → Tableau workbook (optional)
+- `tableau/` → ![Tableau Dashboard](images/tableau-downtime-dashboard.png)
+
 
 ## Tools
 - Excel (advanced formulas, validation, classification)
