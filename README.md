@@ -1,4 +1,4 @@
-# Deloitte Australia – Data Analytics Job Simulation (Forage)
+# Deloitte Australia-Data Analytics Job Simulation (Forage)
 
 This repository contains my completed work for the Deloitte Australia Data Analytics Job Simulation on Forage.
 
