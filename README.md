@@ -10,7 +10,7 @@ This repository contains my completed work for the Deloitte Australia Data Analy
 
 ## Repository structure
 - `data/` → Excel files used for analysis
-- `images/` → images/ → [View Tableau Dashboard Screenshot](images/Tableau_Dashboard.png)
+- `images/` → images/ →[View Tableau Dashboard Screenshot](images/tableau-dashboard.png)
 
 - `docs/` → ## Certificate
 ## Certificate
