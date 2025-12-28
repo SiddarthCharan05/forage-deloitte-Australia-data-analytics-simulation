@@ -10,15 +10,13 @@ This repository contains my completed work for the Deloitte Australia Data Analy
 
 ## Repository structure
 - `data/` → Excel files used for analysis
-- `images/` → images/ → 📊 [Tableau Dashboard Screenshot](images/tableau-downtime-dashboard.png) 
+- `images/` → images/ → [View Tableau Dashboard Screenshot](images/tableau-dashboard.png)
+
 - `docs/` → ## Certificate
 ## Certificate
 [Certificate of Completion](Charan_Deloitte_certificate.pdf)
 
 
-
-
-- `tableau/` → ![Tableau Dashboard](images/tableau-downtime-dashboard.png)
 
 
 ## Tools
